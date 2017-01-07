@@ -5,3 +5,6 @@ You can find the [complete report](https://github.com/franblas/AudioFingerPrinti
 
 ## Documentation
 Java doc is here https://franblas.github.io/AudioFingerPrinting
+
+## Licensing
+AudioFingerPrinting is licensed under the MIT License. See [LICENSE](LICENSE) for the full license text.
